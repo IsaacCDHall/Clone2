@@ -8,7 +8,7 @@ _This project is a mock recreation of Wikipedia_
 
 ## Setup/Installation Requirements
 
-* _Clone the repository from https://github.com/travisty12/wikicode_
+* _Clone the repository from issss
 * _Open with your preferred text editor or web browser_
 
 ## Known Bugs
