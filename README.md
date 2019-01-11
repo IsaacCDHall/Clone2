@@ -2,7 +2,7 @@
 
 #### Mock duplication of Wikipedia's front page - not functional
 
-#### By Travis Toal and Tara Gabsi
+
 
 _This project is a mock recreation of Wikipedia_
 
@@ -27,4 +27,4 @@ _Just HTML, CSS, and the Bootstrap framework_
 
 *MIT License*
 
-Copyright (c) 2019 **Travis Toal & Tara Gabsi**
+Copyright (c) 2019 **mockup**
